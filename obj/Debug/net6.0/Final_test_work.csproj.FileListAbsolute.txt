@@ -1,0 +1,15 @@
+C:\repo\final-verification-work\bin\Debug\net6.0\Final_test_work.exe
+C:\repo\final-verification-work\bin\Debug\net6.0\Final_test_work.deps.json
+C:\repo\final-verification-work\bin\Debug\net6.0\Final_test_work.runtimeconfig.json
+C:\repo\final-verification-work\bin\Debug\net6.0\Final_test_work.dll
+C:\repo\final-verification-work\bin\Debug\net6.0\Final_test_work.pdb
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.csproj.AssemblyReference.cache
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.AssemblyInfoInputs.cache
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.AssemblyInfo.cs
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.csproj.CoreCompileInputs.cache
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.dll
+C:\repo\final-verification-work\obj\Debug\net6.0\refint\Final_test_work.dll
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.pdb
+C:\repo\final-verification-work\obj\Debug\net6.0\Final_test_work.genruntimeconfig.cache
+C:\repo\final-verification-work\obj\Debug\net6.0\ref\Final_test_work.dll
